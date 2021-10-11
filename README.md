@@ -1,6 +1,6 @@
 <!-- Credit: https://github.com/regmicmahesh/regmicmahesh & https://github.com/CaffeineDuck/CaffeineDuck-->
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b761159baeb6ba5d1160ca45f09c0b9b097602e78044f&rid=giphy.gif&ct=g" width=400 />
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b761159baeb6ba5d1160ca45f09c0b9b097602e78044f&rid=giphy.gif&ct=g" width=350 />
 
 <img src="https://img.shields.io/badge/-Upanayan%20Baskota.-red?style=for-the-badge" width=500>
 
