@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b761159baeb6ba5d1160ca45f09c0b9b097602e78044f&rid=giphy.gif&ct=g" width=350 />
 
-<img src="https://img.shields.io/badge/-Upanayan%20Baskota.-red?style=for-the-badge" width=500>
+<img src="https://img.shields.io/badge/-Upanayan%20Baskota.-red?style=for-the-badge" width=450>
 
 <img src="https://img.shields.io/badge/-Just%20a%20self%20learnt%20curious%20kid.-black?style=for-the-badge" width=400>
 
