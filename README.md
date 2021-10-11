@@ -36,7 +36,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=B0s0&theme=midnight-purple&count_private=true&show_icons=true" height=200>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0s0&langs_count=5&theme=midnight-purple&show_icons=true" height=400>
 
-## Now Playing
+## Listen with me
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rt6z53uh81eqbob2gnwxmw5up&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=rt6z53uh81eqbob2gnwxmw5up&redirect=true)
 
 ## Tryhackme Profile
