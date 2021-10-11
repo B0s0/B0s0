@@ -36,7 +36,7 @@
 
 ## Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=B0s0&theme=midnight-purple&count_private=true&show_icons=true" height=300>  
+<img src="https://github-readme-stats.vercel.app/api?username=B0s0&theme=midnight-purple&count_private=true&show_icons=true" height=250>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0s0&langs_count=5&theme=midnight-purple&show_icons=true" height=400>
 
 ## Listen with me
