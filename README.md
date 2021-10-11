@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b761159baeb6ba5d1160ca45f09c0b9b097602e78044f&rid=giphy.gif&ct=g" width=350 />
 
-<img src="https://img.shields.io/badge/-Upanayan%20Baskota.-red?style=for-the-badge" width=450>
+<img src="https://img.shields.io/badge/-Upanayan%20Baskota.-DC322F?style=for-the-badge" width=450>
 
 <img src="https://img.shields.io/badge/-Just%20a%20self%20learnt%20curious%20kid.-black?style=for-the-badge" width=400>
 
@@ -30,10 +30,13 @@
 ![](https://img.shields.io/badge/BURPSUITE-blueviolet)
 ![](https://img.shields.io/badge/NMAP-crtical)
 ![](https://img.shields.io/badge/NETWORKING-important)
+![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)<br>
+![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ## Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=B0s0&theme=midnight-purple&count_private=true&show_icons=true" height=200>  
+<img src="https://github-readme-stats.vercel.app/api?username=B0s0&theme=midnight-purple&count_private=true&show_icons=true" height=300>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0s0&langs_count=5&theme=midnight-purple&show_icons=true" height=400>
 
 ## Listen with me
