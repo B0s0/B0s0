@@ -40,10 +40,10 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=395 src="https://github-readme-streak-stats.herokuapp.com/?user=B0s0&theme=dracula&border=61dafb&hide_border=true" alt="B0s0" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=B0s0&theme=dracula&border=61dafb&hide_border=true" alt="B0s0" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=395 src="https://github-readme-stats.vercel.app/api?username=B0s0&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true&count_private=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=B0s0&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true&count_private=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
